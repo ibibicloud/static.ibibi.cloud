@@ -3,7 +3,7 @@
 
 ### 用法示例
 ~~~
-<link rel="stylesheet" href="https://static.ibibi.cloud/layui/2.11.2/css/layui.css">
+<link href="https://static.ibibi.cloud/layui/2.11.2/css/layui.css" rel="stylesheet">
 ~~~
 ~~~
 <script src="https://static.ibibi.cloud/layui/2.11.2/layui.js"></script>
